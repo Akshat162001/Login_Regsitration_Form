@@ -1,4 +1,4 @@
-# Login & Registration Form with MERN stack
+# Login & Registration Form (Frontend and Small bit of Backend)
 
 
 ## 👋 Introduction
