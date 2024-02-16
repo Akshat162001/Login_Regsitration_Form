@@ -56,6 +56,6 @@ This project uses the following technologies:
 
 
 <br/>
-Firstly run backend and then frontend So that your 
+Firstly run backend and then frontend So that your data enterd in form could be saved into the database
 <br/>
 <h2> Do not forget to give a star! ⭐🤗 </h2>
